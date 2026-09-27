@@ -10,7 +10,7 @@ The goal of this project is to understand how digital images are represented, pr
 
 ## 👩‍💻 About Me
 
-**Nitu Rawat**
+**Bhagirath**
 B.Tech — Computer Science & Engineering (AI & ML)
 Sanskriti University
 
